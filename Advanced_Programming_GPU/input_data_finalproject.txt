@@ -1,0 +1,459 @@
+In 1968, a young Intel engineer named Ted Hoff found a way to put the circuits necessary for computer 
+processing onto a tiny piece of silicon. His invention of the microprocessor spurred a series of 
+technological breakthroughs—desktop computers, local and wide area networks, enterprise software, 
+and the Internet—that have transformed the business world. Today, no one would dispute that 
+information technology has become the backbone of commerce. It underpins the operations of individual 
+companies, ties together far-flung supply chains, and, increasingly, links businesses to the customers 
+they serve. Hardly a dollar or a euro changes hands anymore without the aid of computer systems.
+
+As IT’s power and presence have expanded, companies have come to view it as a resource ever more 
+critical to their success, a fact clearly reflected in their spending habits. In 1965, according to 
+a study by the U.S. 
+Department of Commerce’s Bureau of Economic Analysis, less than 5% of the capital expenditures of 
+American 
+companies went to information technology. After the introduction of the personal computer in the 
+early 1980s, that percentage rose to 15%. By the early 1990s, it had reached more than 30%, and 
+by the end of the decade it had hit nearly 50%. Even with the recent sluggishness in technology 
+spending, businesses around the world continue to spend well over $2 trillion a year on IT.
+
+But the veneration of IT goes much deeper than dollars. It is evident as well in the shifting 
+attitudes of top managers. Twenty years ago, most executives looked down on computers as proletarian 
+tools—glorified typewriters and calculators—best relegated to low level employees like secretaries, 
+analysts, and technicians. It was the rare executive who would let his fingers touch a keyboard, 
+much less incorporate information technology into his strategic thinking. Today, that has changed 
+completely. Chief executives now routinely talk about the strategic value of information technology, 
+about how they can use IT to gain a competitive edge, about the “digitization” of their business 
+models. Most have appointed chief information officers to their senior management teams, and many 
+have hired strategy consulting firms to provide fresh ideas on how to leverage their IT investments 
+for differentiation and advantage.
+
+Behind the change in thinking lies a simple assumption: that as IT’s potency and ubiquity have 
+increased, so too has its strategic value. It’s a reasonable assumption, even an intuitive one. 
+But it’s mistaken. What makes a resource truly strategic—what gives it the capacity to be the 
+basis for a sustained competitive advantage—is not ubiquity but scarcity. You only gain an edge 
+over rivals by having or doing something that they can’t have or do. By now, the core functions 
+of IT—data storage, data processing, and data transport—have become available and affordable to 
+all.1 Their very power and presence have begun to transform them from potentially strategic 
+resources into commodity factors of production. They are becoming costs of doing business that 
+must be paid by all but provide distinction to none.
+
+IT is best seen as the latest in a series of broadly adopted technologies that have reshaped 
+industry over the past two centuries—from the steam engine and the railroad to the telegraph 
+and the telephone to the electric generator and the internal combustion engine. For a brief 
+period, as they were being built into the infrastructure of commerce, all these technologies 
+opened opportunities for forward-looking companies to gain real advantages. But as their 
+availability increased and their cost decreased—as they became ubiquitous—they became commodity 
+inputs. From a strategic standpoint, they became invisible; they no longer mattered. That is 
+exactly what is happening to information technology today, and the implications for corporate 
+IT management are profound.
+Vanishing Advantage
+
+Many commentators have drawn parallels between the expansion of IT, particularly the Internet, 
+and the rollouts of earlier technologies. Most of the comparisons, though, have focused on either 
+the investment pattern associated with the technologies—the boom-to-bust cycle—or the technologies’ 
+roles in reshaping the operations of entire industries or even economies. Little has been said 
+about the way the technologies influence, or fail to influence, competition at the firm level. 
+Yet it is here that history offers some of its most important lessons to managers.
+
+A distinction needs to be made between proprietary technologies and what might be called 
+infrastructural technologies. Proprietary technologies can be owned, actually or effectively, 
+by a single company. A pharmaceutical firm, for example, may hold a patent on a particular 
+compound that serves as the basis for a family of drugs. An industrial manufacturer may 
+discover an innovative way to employ a process technology that competitors find hard to 
+replicate. A company that produces consumer goods may acquire exclusive rights to a new 
+packaging material that gives its product a longer shelf life than competing brands. As long 
+as they remain protected, proprietary technologies can be the foundations for long-term 
+strategic advantages, enabling companies to reap higher profits than their rivals.
+
+Infrastructural technologies, in contrast, offer far more value when shared than when used 
+in isolation. Imagine yourself in the early nineteenth century, and suppose that one manufacturing 
+company held the rights to all the technology required to create a railroad. If it wanted to, 
+that company could just build proprietary lines between its suppliers, its factories, and its 
+distributors and run its own locomotives and railcars on the tracks. And it might well operate 
+more efficiently as a result. But, for the broader economy, the value produced by such an 
+arrangement would be trivial compared with the value that would be produced by building an 
+open rail network connecting many companies and many buyers. The characteristics and economics 
+of infrastructural technologies, whether railroads or telegraph lines or power generators, make 
+it inevitable that they will be broadly shared—that they will become part of the general 
+business infrastructure.
+
+In the earliest phases of its buildout, however, an infrastructural technology can take the 
+form of a proprietary technology. As long as access to the technology is restricted—through 
+physical limitations, intellectual property rights, high costs, or a lack of standards—a 
+company can use it to gain advantages over rivals. Consider the period between the construction 
+of the first electric power stations, around 1880, and the wiring of the electric grid early 
+in the twentieth century. Electricity remained a scarce resource during this time, and those 
+manufacturers able to tap into it—by, for example, building their plants near generating 
+stations—often gained an important edge. It was no coincidence that the largest U.S. manufacturer 
+of nuts and bolts at the turn of the century, Plumb, Burdict, and Barnard, located its factory 
+near Niagara Falls in New York, the site of one of the earliest large-scale hydroelectric power 
+plants.
+
+Companies can also steal a march on their competitors by having superior insight into the use of 
+a new technology. The introduction of electric power again provides a good example. Until the end 
+of the nineteenth century, most manufacturers relied on water pressure or steam to operate their 
+machinery. Power in those days came from a single, fixed source—a waterwheel at the side of a mill, 
+for instance—and required an elaborate system of pulleys and gears to distribute it to individual 
+workstations throughout the plant. When electric generators first became available, many 
+manufacturers simply adopted them as a replacement single-point source, using them to power the 
+existing system of pulleys and gears. Smart manufacturers, however, saw that one of the great 
+advantages of electric power is that it is easily distributable—that it can be brought directly 
+to workstations. By wiring their plants and installing electric motors in their machines, they 
+were able to dispense with the cumbersome, inflexible, and costly gearing systems, gaining 
+an important efficiency advantage over their slower-moving competitors.
+
+In addition to enabling new, more efficient operating methods, infrastructural technologies 
+often lead to broader market changes. Here, too, a company that sees what’s coming can gain a 
+step on myopic rivals. In the mid-1800s, when America started to lay down rail lines in earnest, 
+it was already possible to transport goods over long distances—hundreds of steamships plied 
+the country’s rivers. Businessmen probably assumed that rail transport would essentially 
+follow the steamship model, with some incremental enhancements. In fact, the greater speed, 
+capacity, and reach of the railroads fundamentally changed the structure of American industry. 
+It suddenly became economical to ship finished products, rather than just raw materials and 
+industrial components, over great distances, and the mass consumer market came into being. 
+Companies that were quick to recognize the broader opportunity rushed to build large-scale, 
+mass-production factories. The resulting economies of scale allowed them to crush the small, 
+local plants that until then had dominated manufacturing.
+
+The trap that executives often fall into, however, is assuming that opportunities for advantage 
+will be available indefinitely. In actuality, the window for gaining advantage from an 
+infrastructural technology is open only briefly. When the technology’s commercial potential 
+begins to be broadly appreciated, huge amounts of cash are inevitably invested in it, and 
+its buildout proceeds with extreme speed. Railroad tracks, telegraph wires, power lines—all 
+were laid or strung in a frenzy of activity (a frenzy so intense in the case of rail lines 
+that it cost hundreds of laborers their lives). In the 30 years between 1846 and 1876, reports 
+Eric Hobsbawm in The Age of Capital, the world’s total rail trackage increased from 17,424 
+kilometers to 309,641 kilometers. During this same period, total steamship tonnage also exploded, 
+from 139,973 to 3,293,072 tons. The telegraph system spread even more swiftly. In Continental 
+Europe, there were just 2,000 miles of telegraph wires in 1849; 20 years later, there were 110,000. 
+The pattern continued with electrical power. The number of central stations operated by utilities 
+grew from 468 in 1889 to 4,364 in 1917, and the average capacity of each increased more than tenfold. 
+(For a discussion of the dangers of overinvestment, see the sidebar “Too Much of a Good Thing.”)
+
+Too Much of a Good Thing
+
+As many experts have pointed out, the overinvestment in information technology in the 1990s 
+echoes the overinvestment in railroads in the 1860s. In both cases, companies and individuals, 
+dazzled by the seemingly unlimited commercial possibilities of the technologies, threw large 
+quantities of money away on half-baked businesses and products. Even worse, the flood of 
+capital led to enormous overcapacity, devastating entire industries.
+
+We can only hope that the analogy ends there. The mid-nineteenth-century boom in railroads 
+(and the closely related technologies of the steam engine and the telegraph) helped produce 
+not only widespread industrial overcapacity but a surge in productivity. The combination set 
+the stage for two solid decades of deflation. Although worldwide economic production continued 
+to grow strongly between the mid-1870s and the mid-1890s, prices collapsed—in England, the 
+dominant economic power of the time, price levels dropped 40%. In turn, business profits evaporated. 
+Companies watched the value of their products erode while they were in the very process of making 
+them. As the first worldwide depression took hold, economic malaise covered much of the globe. 
+“Optimism about a future of indefinite progress gave way to uncertainty and a sense of agony,” 
+wrote historian D.S. Landes.
+
+It’s a very different world today, of course, and it would be dangerous to assume that history 
+will repeat itself. But with companies struggling to boost profits and the entire world economy 
+flirting with deflation, it would also be dangerous to assume it can’t.
+ 
+Read more
+
+By the end of the buildout phase, the opportunities for individual advantage are largely gone. 
+The rush to invest leads to more competition, greater capacity, and falling prices, making the 
+technology broadly accessible and affordable. At the same time, the buildout forces users to 
+adopt universal technical standards, rendering proprietary systems obsolete. Even the way the 
+technology is used begins to become standardized, as best practices come to be widely understood 
+and emulated. Often, in fact, the best practices end up being built into the infrastructure 
+itself; after electrification, for example, all new factories were constructed with many 
+well-distributed power outlets. Both the technology and its modes of use become, in effect, 
+commoditized. The only meaningful advantage most companies can hope to gain from an 
+infrastructural technology after its buildout is a cost advantage—and even that tends to be 
+very hard to sustain.
+
+That’s not to say that infrastructural technologies don’t continue to influence competition. 
+They do, but their influence is felt at the macroeconomic level, not at the level of the 
+individual company. If a particular country, for instance, lags in installing the 
+technology—whether it’s a national rail network, a power grid, or a communication 
+infrastructure—its domestic industries will suffer heavily. Similarly, if an industry lags 
+in harnessing the power of the technology, it will be vulnerable to displacement. As always, 
+a company’s fate is tied to broader forces affecting its region and its industry. The point 
+is, however, that the technology’s potential for differentiating one company from the pack—its 
+strategic potential—inexorably declines as it becomes accessible and affordable to all.
+The Commoditization of IT
+
+Although more complex and malleable than its predecessors, IT has all the hallmarks of an 
+infrastructural technology. In fact, its mix of characteristics guarantees particularly 
+rapid commoditization. IT is, first of all, a transport mechanism—it carries digital 
+information just as railroads carry goods and power grids carry electricity. And like any 
+transport mechanism, it is far more valuable when shared than when used in isolation. The 
+history of IT in business has been a history of increased interconnectivity and 
+interoperability, from mainframe time-sharing to minicomputer-based local area networks 
+to broader Ethernet networks and on to the Internet. Each stage in that progression has 
+involved greater standardization of the technology and, at least recently, greater 
+homogenization of its functionality. For most business applications today, the benefits 
+of customization would be overwhelmed by the costs of isolation.
+
+IT is also highly replicable. Indeed, it is hard to imagine a more perfect commodity 
+than a byte of data—endlessly and perfectly reproducible at virtually no cost. The 
+near-infinite scalability of many IT functions, when combined with technical standardization, 
+dooms most proprietary applications to economic obsolescence. Why write your own application 
+for word processing or e-mail or, for that matter, supply-chain management when you can buy 
+a ready-made, state-of-the-art application for a fraction of the cost? But it’s not just 
+the software that is replicable. Because most business activities and processes have come 
+to be embedded in software, they become replicable, too. When companies buy a generic 
+application, they buy a generic process as well. Both the cost savings and the 
+interoperability benefits make the sacrifice of distinctiveness unavoidable.
+
+The arrival of the Internet has accelerated the commoditization of IT by providing a 
+perfect delivery channel for generic applications. More and more, companies will fulfill 
+their IT requirements simply by purchasing fee-based “Web services” from third 
+parties—similar to the way they currently buy electric power or telecommunications 
+services. Most of the major business-technology vendors, from Microsoft to IBM, are 
+trying to position themselves as IT utilities, companies that will control the provision 
+of a diverse range of business applications over what is now called, tellingly, “the grid.” 
+Again, the upshot is ever greater homogenization of IT capabilities, as more companies 
+replace customized applications with generic ones. 
+
+Finally, and for all the reasons already discussed, IT is subject to rapid price deflation. 
+When Gordon Moore made his famously prescient assertion that the density of circuits on a 
+computer chip would double every two years, he was making a prediction about the coming 
+explosion in processing power. But he was also making a prediction about the coming free 
+fall in the price of computer functionality. The cost of processing power has dropped 
+relentlessly, from $480 per million instructions per second (MIPS) in 1978 to $50 per 
+MIPS in 1985 to $4 per MIPS in 1995, a trend that continues unabated. Similar declines 
+have occurred in the cost of data storage and transmission. The rapidly increasing 
+affordability of IT functionality has not only democratized the computer revolution, 
+it has destroyed one of the most important potential barriers to competitors. Even 
+the most cutting-edge IT capabilities quickly become available to all.
+
+It’s no surprise, given these characteristics, that IT’s evolution has closely mirrored 
+that of earlier infrastructural technologies. Its buildout has been every bit as 
+breathtaking as that of the railroads (albeit with considerably fewer fatalities). 
+Consider some statistics. During the last quarter of the twentieth century, the 
+computational power of a microprocessor increased by a factor of 66,000. In the 
+dozen years from 1989 to 2001, the number of host computers connected to the Internet 
+grew from 80,000 to more than 125 million. Over the last ten years, the number of 
+sites on the World Wide Web has grown from zero to nearly 40 million. And since the 
+1980s, more than 280 million miles of fiber-optic cable have been installed – enough, 
+as Business Week recently noted, to “circle the earth 11,320 times.”
+
+As with earlier infrastructural technologies, IT provided forward-looking companies 
+many opportunities for competitive advantage early in its buildout, when it could still 
+be “owned” like a proprietary technology. A classic example is American Hospital Supply. 
+A leading distributor of medical supplies, AHS introduced in 1976 an innovative system 
+called Analytic Systems Automated Purchasing, or ASAP, that enabled hospitals to order 
+goods electronically. Developed in-house, the innovative system used proprietary software 
+running on a mainframe computer, and hospital purchasing agents accessed it through 
+terminals at their sites. Because more efficient ordering enabled hospitals to reduce 
+their inventories – and thus their costs – customers were quick to embrace the system. 
+And because it was proprietary to AHS, it effectively locked out competitors. For 
+several years, in fact, AHS was the only distributor offering electronic ordering, 
+a competitive advantage that led to years of superior financial results. From 1978 
+to 1983, AHS’s sales and profits rose at annual rates of 13% and 18%, respectively – 
+well above industry averages.
+
+AHS gained a true competitive advantage by capitalizing on characteristics of 
+infrastructural technologies that are common in the early stages of their buildouts, 
+in particular their high cost and lack of standardization. Within a decade, however, 
+those barriers to competition were crumbling. The arrival of personal computers and 
+packaged software, together with the emergence of networking standards, was rendering 
+proprietary communication systems unattractive to their users and uneconomical to 
+their owners. Indeed, in an ironic, if predictable, twist, the closed nature and 
+outdated technology of AHS’s system turned it from an asset to a liability. By 
+the dawn of the 1990s, after AHS had merged with Baxter Travenol to form Baxter 
+International, the company’s senior executives had come to view ASAP as “a millstone 
+around their necks,” according to a Harvard Business School case study.
+
+Myriad other companies have gained important advantages through the innovative 
+deployment of IT. Some, like American Airlines with its Sabre reservation system, 
+Federal Express with its package-tracking system, and Mobil Oil with its automated 
+Speedpass payment system, used IT to gain particular operating or marketing advantages 
+– to leapfrog the competition in one process or activity. Others, like Reuters with 
+its 1970s financial information network or, more recently, eBay with its Internet 
+auctions, had superior insight into the way IT would fundamentally change an 
+industry and were able to stake out commanding positions. In a few cases, the 
+dominance companies gained through IT innovation conferred additional advantages, 
+such as scale economies and brand recognition, that have proved more durable than 
+the original technological edge. Wal-Mart and Dell Computer are renowned examples 
+of firms that have been able to turn temporary technological advantages into 
+enduring positioning advantages.
+
+But the opportunities for gaining IT-based advantages are already dwindling. 
+Best practices are now quickly built into software or otherwise replicated. 
+And as for IT-spurred industry transformations, most of the ones that are 
+going to happen have likely already happened or are in the process of happening. 
+Industries and markets will continue to evolve, of course, and some will undergo
+ fundamental changes – the future of the music business, for example, continues 
+to be in doubt. But history shows that the power of an infrastructural technology 
+to transform industries always diminishes as its buildout nears completion.
+
+While no one can say precisely when the buildout of an infrastructural technology 
+has concluded, there are many signs that the IT buildout is much closer to its 
+end than its beginning. First, IT’s power is outstripping most of the business 
+needs it fulfills. Second, the price of essential IT functionality has dropped 
+to the point where it is more or less affordable to all. Third, the capacity of 
+the universal distribution network (the Internet) has caught up with demand – 
+indeed, we already have considerably more fiber-optic capacity than we need. 
+Fourth, IT vendors are rushing to position themselves as commodity suppliers 
+or even as utilities. Finally, and most definitively, the investment bubble 
+has burst, which historically has been a clear indication that an infrastructural 
+technology is reaching the end of its buildout. A few companies may still be 
+able to wrest advantages from highly specialized applications that don’t offer 
+strong economic incentives for replication, but those firms will be the 
+exceptions that prove the rule.
+
+At the close of the 1990s, when Internet hype was at full boil, technologists 
+offered grand visions of an emerging “digital future.” It may well be that, 
+in terms of business strategy at least, the future has already arrived.
+
+What about the vendors?
+
+Although IT vendors continue to promote their products as “strategic,” their own 
+business strategies seem to belie their marketing pitches. They are adapting 
+themselves to compete in a world where IT hardware and software are largely 
+commodities.
+
+Just a few months ago, at the 2003 World Economic Forum in Davos, Switzerland, 
+Bill Joy, the chief scientist and cofounder of Sun Microsystems, posed what for 
+him must have been a painful question: “What if the reality is that people have 
+already bought most of the stuff they want to own?” The people he was talking 
+about are, of course, businesspeople, and the stuff is information technology. 
+With the end of the great buildout of the commercial IT infrastructure 
+apparently at hand, Joy’s question is one that all IT vendors are now asking 
+themselves. There is good reason to believe that companies’ existing IT 
+capabilities are largely sufficient for their needs and, hence, that the 
+recent and widespread sluggishness in IT demand is as much a structural as 
+a cyclical phenomenon.
+
+Even if that’s true, the picture may not be as bleak as it seems for vendors, 
+at least those with the foresight and skill to adapt to the new environment. 
+The importance of infrastructural technologies to the day-to-day operations 
+of business means that they continue to absorb large amounts of corporate 
+cash long after they have become commodities – indefinitely, in many cases. 
+Virtually all companies today continue to spend heavily on electricity and 
+phone service, for example, and many manufacturers continue to spend a lot 
+on rail transport. Moreover, the standardized nature of infrastructural 
+technologies often leads to the establishment of lucrative monopolies and 
+oligopolies.
+
+Many technology vendors are already repositioning themselves and their 
+products in response to the changes in the market. Microsoft’s push to turn 
+its Office software suite from a packaged good into an annual subscription 
+service is a tacit acknowledgment that companies are losing their need – 
+and their appetite – for constant upgrades. Dell has succeeded by exploiting 
+the commoditization of the PC market and is now extending that strategy to 
+servers, storage, and even services. (Michael Dell’s essential genius has 
+always been his unsentimental trust in the commoditization of information 
+technology.) And many of the major suppliers of corporate IT, including 
+Microsoft, IBM, Sun, and Oracle, are battling to position themselves as 
+dominant suppliers of “Web services” – to turn themselves, in effect, into 
+utilities. This war for scale, combined with the continuing transformation 
+of IT into a commodity, will lead to the further consolidation of many sectors 
+of the IT industry. The winners will do very well; the losers will be gone.
+
+From offense to defense
+
+So what should companies do? From a practical standpoint, the most important 
+lesson to be learned from earlier infrastructural technologies may be this: 
+When a resource becomes essential to competition but inconsequential to 
+strategy, the risks it creates become more important than the advantages 
+it provides. Think of electricity. Today, no company builds its business 
+strategy around its electricity usage, but even a brief lapse in supply 
+can be devastating (as some California businesses discovered during the 
+energy crisis of 2000). The operational risks associated with IT are many 
+– technical glitches, obsolescence, service outages, unreliable vendors 
+or partners, security breaches, even terrorism – and some have become 
+magnified as companies have moved from tightly controlled, proprietary 
+systems to open, shared ones. Today, an IT disruption can paralyze a
+ company’s ability to make its products, deliver its services, and connect
+ with its customers, not to mention foul its reputation. Yet few companies 
+have done a thorough job of identifying and tempering their vulnerabilities. 
+Worrying about what might go wrong may not be as glamorous a job as 
+speculating about the future, but it is a more essential job right now.
+
+In the long run, though, the greatest IT risk facing most companies is 
+more prosaic than a catastrophe. It is, simply, overspending. IT may 
+be a commodity, and its costs may fall rapidly enough to ensure that 
+any new capabilities are quickly shared, but the very fact that it is 
+entwined with so many business functions means that it will continue 
+to consume a large portion of corporate spending. For most companies, 
+just staying in business will require big outlays for IT. What’s important 
+– and this holds true for any commodity input – is to be able to separate 
+essential investments from ones that are discretionary, unnecessary, or 
+even counterproductive.
+
+At a high level, stronger cost management requires more rigor in 
+evaluating expected returns from systems investments, more creativity 
+in exploring simpler and cheaper alternatives, and a greater openness 
+to outsourcing and other partnerships. But most companies can also reap
+significant savings by simply cutting out waste. Personal computers are 
+a good example. Every year, businesses purchase more than 100 million 
+PCs, most of which replace older models. Yet the vast majority of workers 
+who use PCs rely on only a few simple applications – word processing, 
+spreadsheets, e-mail, and Web browsing. These applications have been 
+technologically mature for years; they require only a fraction of the 
+computing power provided by today’s microprocessors. Nevertheless, 
+companies continue to roll out across-the-board hardware and software 
+upgrades.
+
+Much of that spending, if truth be told, is driven by vendors’ strategies. 
+Big hardware and software suppliers have become very good at parceling out 
+new features and capabilities in ways that force companies into buying 
+new computers, applications, and networking equipment much more frequently 
+than they need to. The time has come for IT buyers to throw their weight 
+around, to negotiate contracts that ensure the long-term usefulness of 
+their PC investments and impose hard limits on upgrade costs. And if 
+vendors balk, companies should be willing to explore cheaper solutions, 
+including open-source applications and bare-bones network PCs, even if 
+it means sacrificing features. If a company needs evidence of the kind 
+of money that might be saved, it need only look at Microsoft’s profit 
+margin.
+
+In addition to being passive in their purchasing, companies have been 
+sloppy in their use of IT. That’s particularly true with data storage, 
+which has come to account for more than half of many companies’ IT 
+expenditures. The bulk of what’s being stored on corporate networks 
+has little to do with making products or serving customers – it consists 
+of employees’ saved e-mails and files, including terabytes of spam, MP3s, 
+and video clips. Computerworld estimates that as much as 70% of the 
+storage capacity of a typical Windows network is wasted – an enormous 
+unnecessary expense. Restricting employees’ ability to save files 
+indiscriminately and indefinitely may seem distasteful to many managers, 
+but it can have a real impact on the bottom line. Now that IT has become 
+the dominant capital expense for most businesses, there’s no excuse for 
+waste and sloppiness.
+
+Given the rapid pace of technology’s advance, delaying IT investments 
+can be another powerful way to cut costs – while also reducing a firm’s 
+chance of being saddled with buggy or soon-to-be-obsolete technology. Many 
+companies, particularly during the 1990s, rushed their IT investments either 
+because they hoped to capture a first-mover advantage or because they feared 
+being left behind. Except in very rare cases, both the hope and the fear were 
+unwarranted. The smartest users of technology – here again, Dell and Wal-Mart 
+stand out – stay well back from the cutting edge, waiting to make purchases 
+until standards and best practices solidify. They let their impatient 
+competitors shoulder the high costs of experimentation, and then they 
+sweep past them, spending less and getting more.
+
+Some managers may worry that being stingy with IT dollars will damage 
+their competitive positions. But studies of corporate IT spending 
+consistently show that greater expenditures rarely translate into 
+superior financial results. In fact, the opposite is usually true. In 
+2002, the consulting firm Alinean compared the IT expenditures and the 
+financial results of 7,500 large U.S. companies and discovered that 
+the top performers tended to be among the most tightfisted. The 25 
+companies that delivered the highest economic returns, for example, 
+spent on average just 0.8% of their revenues on IT, while the typical 
+company spent 3.7%. A recent study by Forrester Research showed, 
+similarly, that the most lavish spenders on IT rarely post the best 
+results. Even Oracle’s Larry Ellison, one of the great technology 
+salesmen, admitted in a recent interview that “most companies spend 
+too much [on IT] and get very little in return.” As the opportunities 
+for IT-based advantage continue to narrow, the penalties for overspending 
+will only grow.
+
+IT management should, frankly, become boring. The key to success, for 
+the vast majority of companies, is no longer to seek advantage 
+aggressively but to manage costs and risks meticulously. If, like many
+ executives, you’ve begun to take a more defensive posture toward IT 
+in the last two years, spending more frugally and thinking more 
+pragmatically, you’re already on the right course. The challenge 
+will be to maintain that discipline when the business cycle strengthens 
+and the chorus of hype about IT’s strategic value rises anew.
