@@ -1,0 +1,87 @@
+Group Project Instructions:
+
+Create your data-driven story
+
+Scenario
+
+You are a team of experts that provide data-driven advice to managers and CEOs to inform
+
+their business strategy.
+
+The CEO of a company which owns a chain of shops approaches your team. The shops sell
+
+various categories of products. The CEO asks you to generate a data-driven business report
+
+for the enterprise’s performance over the last few years. The purpose of this report is to gain
+
+insight and thus provide valuable knowledge for better decision making. The information
+
+arising from the available data will contribute to the company’s business strategy, thus
+
+expert visualizations of data are of the utmost importance.
+
+For this Group Project, your team will use two datasets: the first dataset contains the shop’s
+
+performance (sales, profits, salespersons etc.) and the second the product returns for the
+
+years 2012-2015.
+
+To prepare for this Group Project:
+
+· Download the datasets at
+
+https://www.tableau.com/sites/default/files/getting_started_data_sets.zip
+
+By Day 7 (Sunday) of Week 13
+
+Using the datasets, submit a business report which addresses the following:
+
+1. The CEO wishes to see information about the profits and sales per product category
+
+during the last three years. Therefore, create effective visuals that present the sales
+
+per product category and the profits per product category for the last three years.
+
+2. Make clear which countries are the most profitable for the company and the profits
+
+per product category. In addition, the CEO wants to see the products sales with the
+
+least sales for some product categories, thus find out the countries with the lowest
+
+level of sales during the last three years.
+
+3. As the company wants to provide a bonus for the top salespeople, find the people
+
+with the higher profits and sales during the last five years and depict their
+
+performance per product category.
+
+4. Discuss the number of returns compared with number of sales orders for the last
+
+three years.
+
+5. Create a data-driven story providing the key points of the company during the last
+
+three years and make suggestions about future actions. If you wish you can also use
+
+other data from open data sources to strengthen your recommendations.
+
+6. Identify trends of profits per category and segment over time. Describe the trend lines
+
+model and discuss the results of your analysis.
+
+7. Forecast how sales and profits will be evolved in the following year (2016).
+
+8. Complete the business report by adding an introduction plus sections for methods,
+
+conclusions and references. Ensure all your visualizations are clear and
+
+understandable, and your recommendations are supported by available data.
+
+You have 3 weeks to complete this project. As a suggestion, you should complete tasks 1-2
+
+in Week 11, tasks 3-5 in Week 12 and the remaining tasks in Week 13.
+
+By Week 13, submit your group’s completed final report which includes screenshots of the
+
+data visualizations.
